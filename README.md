@@ -6,7 +6,7 @@ Sou desenvolvedor Flutter/Java com mais de 2 anos de experiência atuando princi
 
 
 
-Em 2018 fazendo uma faculdade onde eu não me encaixava, participei de uma palestra de um desenvolvedor na semana acadêmica do curso de Engenharia da Computação. Essa palestra mudou minha vida 🚀🚀🚀. Tenho certeza que para melhor, decidi então cursar Analise e desenvolvimento de Sistemas e entrar no mundo da tecnologia me apaixonando cada vez mais. No ultimo semestre da faculdade em 2020 consegui um estagio de desenvolvimento, começando a trabalhar com Flutter e Java. Onde sigo codando todo o dia👨‍💻
+Em 2018 fazendo uma faculdade onde eu não me encaixava, participei de uma palestra de um desenvolvedor na semana acadêmica do curso de Engenharia da Computação. Essa palestra mudou minha vida 🚀🚀🚀. Tenho certeza que para melhor, decidi então cursar Analise e desenvolvimento de Sistemas e entrar no mundo da tecnologia me apaixonando cada vez mais. No ultimo semestre da faculdade em 2020 consegui um estagio de desenvolvimento, começando a trabalhar com Flutter e Java, onde sigo codando todo o dia👨‍💻
 
   ##
 
