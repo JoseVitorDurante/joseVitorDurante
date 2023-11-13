@@ -2,7 +2,7 @@
 
   ##
 
-Sou desenvolvedor Flutter/Java com mais de 2 anos de experiência atuando principalmente no back-end, buscando sempre efetuar o desenvolvimento de aplicações cada vez mais otimizadas que tragam soluções inovadoras ao meio em que vivemos.
+Sou desenvolvedor Flutter/Java atuando principalmente no back-end, buscando sempre efetuar o desenvolvimento de aplicações cada vez mais otimizadas que tragam soluções inovadoras ao meio em que vivemos.
 
 
 
